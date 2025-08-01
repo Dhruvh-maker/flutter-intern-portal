@@ -1,2 +1,12 @@
-# flutter-intern-portal
-A modern Flutter app built for an internship assignment round, featuring an intern dashboard, announcements, donation tracking, and dynamic leaderboard updates. Developed using Provider for state management with a clean UI and smooth UX.
+# 🧑‍💻 Flutter Intern Portal App
+
+This is a mobile app built as part of a Flutter internship assignment. It allows interns to:
+
+- View and post announcements
+- Track personal and team donations
+- View an automatically updated leaderboard
+- Navigate via a clean and minimal dashboard
+
+📱 Built with Flutter and Dart  
+🗂️ State Management: Provider  
+🎯 Purpose: Internship Round 1 Submission  
